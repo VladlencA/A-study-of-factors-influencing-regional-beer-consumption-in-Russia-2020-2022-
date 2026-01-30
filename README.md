@@ -1,1 +1,13 @@
 # A-study-of-factors-influencing-regional-beer-consumption-in-Russia-2020-2022-
+
+Here you can find a project to quantitatively assess factors influencing beer consumption in Russian regions.
+
+## How to start?
+
+Download ais-aeeu.xcomps.ru.zip and run 
+
+## Screenshots
+
+![files](image_1.png)
+![files](image_2.png)
+![files](image_3.png)

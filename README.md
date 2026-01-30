@@ -4,7 +4,7 @@ Here you can find a project to quantitatively assess factors influencing beer co
 
 ## How to start?
 
-Download ais-aeeu.xcomps.ru.zip and run 
+Download Dataset (Data_v01.xlsx) and Code (Code.ipynb). Then run Code.ipynb.
 
 ## Screenshots
 
